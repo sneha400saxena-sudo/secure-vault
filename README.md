@@ -7,6 +7,14 @@ Secure Vault is a credential management application developed using Python and S
 The project was initially developed as a command-line application and later upgraded into a web-based application using Streamlit, demonstrating the transition from a console-based system to a user-friendly graphical interface.
 
 ---
+## 🌐 Live Demo
+
+🔗 Streamlit Deployment:
+
+https://secure-vault-rngmjgmm6vmw3v543dewzg.streamlit.app/
+
+The application can be accessed directly through the deployed Streamlit web interface.
+---
 
 ## 🚀 Features
 
