@@ -174,7 +174,7 @@ Through this project, the following concepts were explored:
 
 ## 👩‍💻 Author
 
-Sneha Saxena
+Sneha sneha
 
 B.Tech CSIT (Cybersecurity)
 
